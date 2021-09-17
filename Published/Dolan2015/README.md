@@ -1,5 +1,5 @@
 # Dolan2015
-DNA damage repair by non-homologous end joining (Dolan et al., PLoS Comput Biol, 2015)
+Stochastic model of DNA damage repair by non-homologous end joining  and of gamma irradiation-induced cellular senescence.
 
 ## Abstract
 An integrated stochastic model of DNA damage repair by non-homologous end joining and of gamma irradiation-induced cellular senescence in human cells that are not apoptosis-prone, which successfully explains the changes that occur in the dynamics of DNA damage repair after irradiation.

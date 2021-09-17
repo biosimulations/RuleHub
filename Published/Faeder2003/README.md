@@ -1,5 +1,6 @@
 # Faeder2003
-FcεRI signaling (Faeder et al., J Immunol, 2003)
+Early events in FcεRI signaling, including Lyn recruitment and Syk activation.
 
 ## Abstract
 Model of early events in FcεRI signaling, including Lyn recruitment and Syk activation.
+
