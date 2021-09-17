@@ -15,8 +15,8 @@ An integrated stochastic model of DNA damage repair by non-homologous end joinin
 ## Thumbnails
 * [Figure1.png](thumbnails/Figure1.png)
   
-## Taxon
-[Homo sapiens](http://identifiers.org/taxonomy:9606)
+## Taxa
+* [Homo sapiens](http://identifiers.org/taxonomy:9606)
 
 ## Authors
 * David W. P. Dolan
@@ -28,8 +28,7 @@ An integrated stochastic model of DNA damage repair by non-homologous end joinin
 * Daryl P. Shanley
 
 ## Citations
-* David W. P. Dolan, Anze Zupanic, Glyn Nelson, Philip Hall, Satomi Miwa, Thomas B. L. Kirkwood & Daryl P. Shanley. Integrated Stochastic Model of DNA Damage Repair by Non-homologous End Joining and p53/p21- Mediated Early Senescence Signalling. PLoS Comput Biol 11, 5 (2015): e1004246.
-  * DOI: [10.1371/journal.pcbi.1004246](http://identifiers.org/doi:10.1371/journal.pcbi.1004246)
+* David W. P. Dolan, Anze Zupanic, Glyn Nelson, Philip Hall, Satomi Miwa, Thomas B. L. Kirkwood & Daryl P. Shanley. Integrated Stochastic Model of DNA Damage Repair by Non-homologous End Joining and p53/p21- Mediated Early Senescence Signalling. PLoS Comput Biol 11, 5 (2015): e1004246. DOI: [10.1371/journal.pcbi.1004246](http://identifiers.org/doi:10.1371/journal.pcbi.1004246).
 
 <!-- Begin free-text content -->
 
