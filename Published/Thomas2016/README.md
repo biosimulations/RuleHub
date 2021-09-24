@@ -50,6 +50,10 @@ _Null_
 * [example6_groundtruth.bngl](example6_groundtruth.bngl) - The ground truth parameter values used to generate synthetic data for this example.
 * [example6_BNFfiles](example6_BNFfiles) - Files needed to fit example6 in BioNetFit v1.0.1
 
+## Notes
+
+These benchmark fitting problems can be run with [BioNetFit v1.0.1](http://bionetfit.nau.edu/download.html). 
+BioNetFit files are provided as they appear in the BioNetFit download; to run on your computer, it may be necessary to edit the file paths and settings. For more information, refer to the BioNetFit [documentation](http://bionetfit.nau.edu/support.html).
 <!-- End free text content -->
 
 ## License
@@ -65,7 +69,3 @@ _Null_
 ## Modified
 2015-06-17
 
-## Notes
-
-These benchmark fitting problems can be run with [BioNetFit v1.0.1](http://bionetfit.nau.edu/download.html). 
-BioNetFit files are provided as they appear in the BioNetFit download; to run on your computer, it may be necessary to edit the file paths and settings. For more information, refer to the BioNetFit [documentation](http://bionetfit.nau.edu/support.html).
