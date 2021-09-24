@@ -270,6 +270,7 @@ def build_combine_archive_for_model(model_filename, archive_filename, extra_cont
     archive.contents.append(CombineArchiveContent(
         location='simulation.sedml',
         format=CombineArchiveContentFormat.SED_ML.value,
+        master=True,
     ))
     for local_path, extra_content in extra_contents.items():
         shutil.copyfile(local_path, os.path.join(archive_dirname, extra_content.location))
