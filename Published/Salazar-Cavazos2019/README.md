@@ -1,12 +1,38 @@
-## Name
-Salazar-Cavazos2019
+# Salazar-Cavazos 2019
+Multisite phosphorylation of EGFR
 
-## Reference
-Salazar-Cavazos E, Nitta CF, Mitra ED, Wilson BS, Lidke KA, Hlavacek WS, Lidke DS. Integrating Multiplex SiMPull and Computational Modeling to Evaluate Combinatorial Aspects of EGFR Signaling. Under review.
+## Abstract
+The Epidermal Growth Factor Receptor (EGFR/ErbB1/HER1) plays an important role in both physiological and cancer-related processes. To study the factors that influence receptor phosphorylation, we have coupled Single Molecule Pull-down (SiMPull) measurements with rule-based modeling of EGFR signaling. Using SiMPull, we quantified the phosphorylation state of thousands of individual receptors. These measurements enabled the first direct detection of multisite phosphorylation on full-length EGFR and revealed that the extent of phosphorylation varies by tyrosine site and is dependent on the relative abundance of signaling partners that limit access by tyrosine phosphatases. We also evaluated the impact of oncogenic mutations and ligands with varying affinity on phosphorylation kinetics. Simulations highlight the importance of dimer lifetimes on EGFR phosphorylation and signaling output.
 
 ## Description
 A model of EGFR signaling that was parameterized using SiMPull measurements of multisite phosphorylation dynamics.
 
+## Keywords
+* Epidermal Growth Factor Receptors
+* Receptor Phosphorylation
+* Single-Molecule Pull-down
+* Tyrosine site
+* Tyrosine phosphatases
+
+## Thumbnails
+* [Figure1.png](thumbnails/Figure1.png)
+
+## Taxa
+* [Homo sapiens](http://identifiers.org/taxonomy:9606)
+
+## Authors
+* Emanuel Salazar-Cavazos
+* Carolina F. Nitta
+* Eshan D. Mitra
+* Bridget S. Wilson
+* Keith A Lidke
+* William S. Hlavacek
+* Diane S. Lidke
+
+## Citations (needs to be checked)
+* Emanuel Salazar-Cavazos, Carolina F. Nitta, Eshan D. Mitra, Bridget S. Wilson, Keith A Lidke, William S. Hlavacek, & Diane S. Lidke. Integrating Multiplex SiMPull and Computational Modeling to Evaluate Combinatorial Aspects of EGFR Signaling. bioRxiv DOI: [10.1101/227512] https://doi.org/10.1101/227512 (**UNDER REVIEW**)
+
+<!-- Begin free-text content -->
 ## Files
 * [190127_CHO_EGFR_best-fit.bngl](190127_CHO_EGFR_best-fit.bngl): Model of EGFR signaling in CHO cells expressing EGFR-GFP, using the parameter values for best fit obtained through PyBNF.
 * [190127_HeLa.bngl](190127_HeLa.bngl),  [190127_HMEC.bngl](190127_HMEC.bngl) and [190127_MCF10A.bngl](190127_MCF10A.bngl): Models of EGFR signaling for the differents cell lines. These models use as a base the model "190127\_CHO\_EGFR\_best-fit.bngl", with protein copy numbers for EGFR, Grb2 and Shc1 specific to each cell line.
@@ -19,7 +45,17 @@ A model of EGFR signaling that was parameterized using SiMPull measurements of m
   * [fit_v1_28.conf](PyBNF-fitting-setup/fit_v1_28.conf): PyBNF configuration file to perform fitting
   * [fit_bootstrap.conf](PyBNF-fitting-setup/fit_bootstrap.conf): PyBNF configuration file to perform bootstrapping
   * [fit_pt.conf](PyBNF-fitting-setup/fit_pt.conf): PyBNF configuration file to perform Bayesian uncertainty quantification by parallel tempering
+<!-- End free text content -->
+
+## License
+[MIT](http://identifiers.org/spdx:MIT)
+
+## Curators
+* [Jonathan Karr](http://identifiers.org/orcid:0000-0002-2605-5080)
+* Briman Yang
+
+## Created
+2015-05-28
+
+
   
-
-
-## Notes
