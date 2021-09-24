@@ -1,11 +1,38 @@
-## Name
-Thomas2016
+## Thomas 2016
 
-## Reference
-[Thomas BR, Chylek LA, Colvin J, Sirimulla S, Clayton AHA, Hlavacek WS, Posner RG (2016) BioNetFit: A Fitting Tool Compatible with BioNetGen, NFsim and Distributed Computing Environments. *Bioinformatics* **32**:798–800.](https://academic.oup.com/bioinformatics/article/32/5/798/1744500)
 
-## Description
+## Abstract
+We present BioNetFit, a general-purpose fitting tool that is compatible with BioNetGen and NFsim. BioNetFit is designed to take advantage of distributed computing resources. This feature facilitates fitting (i.e. optimization of parameter values for consistency with data) when simulations are computationally expensive.
+
+## Description:
 Benchmark fitting problems published in conjunction with BioNetFit v1.0
+
+## Keywords:
+* Signal Transduction
+* Syk Kinase
+* FcεRI
+* Lyn
+
+## Thumbnails:
+_Null_
+
+
+## Taxon:
+_Null_
+
+## Authors:
+* Brandon R. Thomas
+* Lily A. Chylek
+* Joshua Colvin
+* Suman Sirimulla
+* Andrew H.A. Clayton
+* William S. Hlavacek
+* Richard G. Posner
+
+## Citation
+* Brandon R. Thomas, Lily A. Chylek, Joshua Colvin, Suman Sirimulla, Andrew H.A. Clayton, William S. Hlavacek, & Richard G. Posner. BioNetFit: a fitting tool compatible with BioNetGen, NFsim and distributed computing environments. Bioinformatics Vol 32, Issue 5, Pages 798-800. (2016) DOI: [10.1093/bioinformatics/btv655]https://doi.org/10.1093/bioinformatics/btv655
+
+<!-- Begin free-text content -->
 
 ## Files
 * [example1_fit.bngl](example1_fit.bngl) - A model of EGFR signaling, adapted from Kozer et al. (2013), simulated with ODEs.
@@ -22,6 +49,21 @@ Benchmark fitting problems published in conjunction with BioNetFit v1.0
 * example6_fit.bngl - A small, synthetic receptor model, simulated with NFsim (missing file)
 * [example6_groundtruth.bngl](example6_groundtruth.bngl) - The ground truth parameter values used to generate synthetic data for this example.
 * [example6_BNFfiles](example6_BNFfiles) - Files needed to fit example6 in BioNetFit v1.0.1
+
+<!-- End free text content -->
+
+## License
+[MIT](http://identifiers.org/spdx:MIT)
+
+## Curator
+* [Jonathan Karr](http://identifiers.org/orcid:0000-0002-2605-5080)
+* Briman Yang
+
+## Created
+2015-05-28
+
+## Modified
+2015-06-17
 
 ## Notes
 
