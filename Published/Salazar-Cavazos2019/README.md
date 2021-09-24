@@ -21,16 +21,16 @@ A model of EGFR signaling that was parameterized using SiMPull measurements of m
 * [Homo sapiens](http://identifiers.org/taxonomy:9606)
 
 ## Authors
-* Emanuel Salazar-Cavazos
+* [Emanuel Salazar-Cavazos](https://identifiers.org/orcid:0000-0003-0850-0651)
 * Carolina F. Nitta
 * Eshan D. Mitra
 * Bridget S. Wilson
-* Keith A Lidke
-* William S. Hlavacek
-* Diane S. Lidke
+* Keith A. Lidke
+* [William S. Hlavacek](https://identifiers.org/orcid:0000-0003-4383-8711)
+* [Diane S. Lidke](https://identifiers.org/orcid:0000-0001-8533-6029)
 
-## Citations (needs to be checked)
-* Emanuel Salazar-Cavazos, Carolina F. Nitta, Eshan D. Mitra, Bridget S. Wilson, Keith A Lidke, William S. Hlavacek, & Diane S. Lidke. Integrating Multiplex SiMPull and Computational Modeling to Evaluate Combinatorial Aspects of EGFR Signaling. bioRxiv DOI: [10.1101/227512] https://doi.org/10.1101/227512 (**UNDER REVIEW**)
+## Citations
+* Emanuel Salazar-Cavazos, Carolina Franco Nitta, Eshan D. Mitra, Bridget S. Wilson, Keith A. Lidke, William S. Hlavacek & Diane S. Lidkea. Multisite EGFR phosphorylation is regulated by adaptor protein abundances and dimer lifetimes. Mol Biol Cell 31, 7:695–708 (2020). DOI: [10.1091/mbc.E19-09-0548](https://identifiers.org/doi:10.1091/mbc.E19-09-0548)
 
 <!-- Begin free-text content -->
 ## Files
