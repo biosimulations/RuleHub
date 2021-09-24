@@ -14,7 +14,7 @@ The BNGL file for the ERK activation model is an edited version of the BNGL file
 * T-Cell receptor Signaling
 
 ## Thumbnails
-[Figure1.png](thumbnails/Figure1.png)
+[Figure1.png](thumbnail/Figure1.jpg)
 
 ## Taxa
 * [Homo sapiens](http://identifiers.org/taxonomy:9606)
