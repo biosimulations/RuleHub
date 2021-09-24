@@ -14,15 +14,15 @@ _Null_
 * Lyn
 
 ## Thumbnails:
-* [Figure1.jpg](thumbnails/Figure1.png) 
-* [Figure2.jpg](thumbnails/Figure2.png)
-* [Figure3.jpg](thumbnails/Figure3.png)
-* [Figure4.jpg](thumbnails/Figure4.png)
-* [Figure5.jpg](thumbnails/Figure5.png)
-* [Figure6.jpg](thumbnails/Figure6.png)
-* [Figure7.jpg](thumbnails/Figure7.png)
-* [Figure8.jpg](thumbnails/Figure8.png)
-* [Figure9.jpg](thumbnails/Figure9.png)
+* [Figure1.jpg](thumbnails/Figure1.jpg) 
+* [Figure2.jpg](thumbnails/Figure2.jpg)
+* [Figure3.jpg](thumbnails/Figure3.jpg)
+* [Figure4.jpg](thumbnails/Figure4.jpg)
+* [Figure5.jpg](thumbnails/Figure5.jpg)
+* [Figure6.jpg](thumbnails/Figure6.jpg)
+* [Figure7.jpg](thumbnails/Figure7.jpg)
+* [Figure8.jpg](thumbnails/Figure8.jpg)
+* [Figure9.jpg](thumbnails/Figure9.jpg)
 
 
 ## Taxon:
