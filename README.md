@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/RuleWorld/RuleHub/HEAD)](#contributors-)
+
 ## Published models
 Model name| Description
 --------- | ---------
@@ -16,3 +18,6 @@ Model name| Description
 [Mitra2019Rab](Contributed/Mitra2019Rab) | Model of Rab5 and Rab7 activation
 
 For instructions on adding new models to the repo, see [AddingModels.md](AddingModels.md).
+
+## Development team
+This package was developed by the contributors listed [here](CONTRIBUTORS.md).
